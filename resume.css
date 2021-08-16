@@ -1,0 +1,69 @@
+#container{
+	border: 20px solid #bdc3c7;
+	max-width: 700px;
+	width: 80%;
+	margin: auto;
+    padding: 20px;
+	font-family: Segoe UI;
+    border-radius: 5px;
+    color: #2c3e50;
+}
+
+h2{
+	font-size: 1.5rem;
+    background: #bdc3c7;
+    width: 240px;
+    line-height: 40px;
+    margin: -35px 0 0 -30px;
+    border-radius: 15px;
+    padding: 0 0 5px 8px;
+    
+}
+
+h4{
+    font-size: 24px;
+    text-align: center;
+    font-weight: normal;
+    margin-top: 10px;
+}
+
+#photo{
+    width: 200px;
+    height: 200px;
+    border: 1px solid #2c3e50;
+    border-radius: 50%;
+    margin: auto;
+    margin-top: 10px;
+    background-image: url(pic.jpg);
+    background-size: cover;
+}
+
+.intro{
+	border-left: 5px solid #bdc3c7;
+	padding-left: 5px;
+    font-size: 18px;
+}
+
+.category{
+    margin-bottom: 20px;
+}
+
+.subtitle{
+    font-size: 18px;
+    padding-left: 20px;
+    font-weight: bold;
+}
+
+.content{
+    width: 70%;
+    margin: auto;
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+hr{
+    border: 0;
+    height: 0;
+    border-top: 2px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 2px solid rgba(255, 255, 255, 0.3);
+}
